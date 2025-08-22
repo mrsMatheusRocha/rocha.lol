@@ -49,7 +49,6 @@ http.createServer(function (req, res) {
 	      <body>
 	        <div class="card">
 	          <h1>🚀 Bem-vindo ao meu site!</h1>
-	          <p>Essa é uma página HTML estilizada.</p>
 	          <button onclick="alert('Você clicou no botão!')">Clique aqui</button>
 	        </div>
 	      </body>
