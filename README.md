@@ -8,8 +8,10 @@ Welcome to **rocha.lol** — a personal project that blends modern web technolog
 
 -----
 
-<div>
-[![Visit the live project](https://img.shields.io/badge/live-rocha.lol-00bcd4?style=for-the-badge&logo=google-chrome)](https://rocha.lol)
+<div align="center">
+  <a href="https://rocha.lol">
+    <img src="https://img.shields.io/badge/live-rocha.lol-00bcd4?style=for-the-badge&logo=google-chrome" alt="Visit the live project">
+  </a>
 </div>
 
 -----
