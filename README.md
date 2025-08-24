@@ -30,7 +30,6 @@ Welcome to **rocha.lol** — a personal project that blends modern web technolog
   ![SQLite](https://img.shields.io/badge/sqlite-003B57?style=flat&logo=sqlite&logoColor=white)
   ![DigitalOcean](https://img.shields.io/badge/digitalocean-0080FF?style=flat&logo=digitalocean&logoColor=white)
   ![HTTPS](https://img.shields.io/badge/https-2C8EBB?style=flat&logo=letsencrypt&logoColor=white)
-  ![Firewall](https://img.shields.io/badge/firewall-FF5722?style=flat)
   ![Git](https://img.shields.io/badge/git-F05032?style=flat&logo=git&logoColor=white)
 
 -----
