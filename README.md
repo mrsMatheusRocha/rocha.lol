@@ -1,53 +1,63 @@
-# rocha.lol
+# 🌐 rocha.lol
 
-### A full-stack web development project.
+### 🚀 A Full-Stack Web Development Showcase
 
-`rocha.lol` is a personal project that showcases a modern and robust web infrastructure. It demonstrates key skills in system architecture, security, and performance optimization by combining powerful technologies.
-
------
-
-🚀 **Visit the live project:** [**https://rocha.lol**](https://www.google.com/search?q=https://rocha.lol)
+Welcome to **rocha.lol** — a personal project that blends modern web technologies into a robust, secure, and high-performance infrastructure. This repository is a playground for system architecture, security best practices, and performance optimization.
 
 -----
 
-## **Technology Stack**
-
-  - **Frontend:** HTML, CSS, and JavaScript.
-  - **Backend & Infrastructure:**
-      - **Docker:** For isolated and consistent environments.
-      - **NGINX:** A high-performance reverse proxy.
-      - **WebSockets:** For real-time communication.
-      - **SQLite:** A lightweight database.
-      - **DigitalOcean:** Cloud hosting (VPS).
-      - **HTTPS & Firewall:** For security.
-      - **Git:** For version control.
+[![Visit the live project](https://img.shields.io/badge/live-rocha.lol-00bcd4?style=for-the-badge&logo=google-chrome)](https://rocha.lol)
 
 -----
 
-## **Key Features**
+## 🛠️ Technology Stack
 
-  - **Responsive Design:** Adapts to any device.
-  - **Real-Time Communication:** Uses WebSockets for live interactions.
-  - **Portable Environment:** The entire infrastructure is easy to replicate with Docker.
-  - **Security-First Approach:** Implements HTTPS and a firewall.
+- **Frontend:**  
+  ![HTML](https://img.shields.io/badge/html5-E34F26?style=flat&logo=html5&logoColor=white)
+  ![CSS](https://img.shields.io/badge/css3-1572B6?style=flat&logo=css3&logoColor=white)
+  ![JavaScript](https://img.shields.io/badge/javascript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+
+- **Backend & Infrastructure:**  
+  ![Docker](https://img.shields.io/badge/docker-2496ED?style=flat&logo=docker&logoColor=white)
+  ![NGINX](https://img.shields.io/badge/nginx-009639?style=flat&logo=nginx&logoColor=white)
+  ![WebSockets](https://img.shields.io/badge/websockets-4FC08D?style=flat)
+  ![SQLite](https://img.shields.io/badge/sqlite-003B57?style=flat&logo=sqlite&logoColor=white)
+  ![DigitalOcean](https://img.shields.io/badge/digitalocean-0080FF?style=flat&logo=digitalocean&logoColor=white)
+  ![HTTPS](https://img.shields.io/badge/https-2C8EBB?style=flat&logo=letsencrypt&logoColor=white)
+  ![Firewall](https://img.shields.io/badge/firewall-FF5722?style=flat)
+  ![Git](https://img.shields.io/badge/git-F05032?style=flat&logo=git&logoColor=white)
 
 -----
 
-## **Getting Started**
+## ✨ Key Features
 
-1.  **Clone the repository:**
+- **Responsive Design:**  
+  Looks stunning on any device.
 
+- **Real-Time Communication:**  
+  Powered by WebSockets for live interactions.
+
+- **Portable Infrastructure:**  
+  Easily replicate anywhere with Docker.
+
+- **Security-First Approach:**  
+  HTTPS + firewall for peace of mind.
+
+-----
+
+## 🚦 Getting Started
+
+1. **Clone the repository:**
     ```bash
     git clone https://github.com/mrsMatheusRocha/rocha.lol.git
     cd rocha.lol
     ```
 
-2.  **Explore the project:**
-    Open `index.html` in your browser to view the frontend.
+2. **Explore the project:**  
+   Open `index.html` in your browser to view the frontend.
 
 -----
 
-## **Author**
+## 👨‍💻 Author
 
-Developed by [mrsMatheusRocha](https://github.com/mrsMatheusRocha).
-
+Made with ❤️ by [mrsMatheusRocha](https://github.com/mrsMatheusRocha)
