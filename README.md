@@ -18,12 +18,14 @@ Welcome to **rocha.lol** — a personal project that blends modern web technolog
 
 ## 🛠️ Technology Stack
 
-- **Frontend:**  
+- **Frontend:**
+  
   ![HTML](https://img.shields.io/badge/html5-E34F26?style=flat&logo=html5&logoColor=white)
   ![CSS](https://img.shields.io/badge/css3-1572B6?style=flat&logo=css3&logoColor=white)
   ![JavaScript](https://img.shields.io/badge/javascript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 
-- **Backend & Infrastructure:**  
+- **Backend & Infrastructure:**
+  
   ![Docker](https://img.shields.io/badge/docker-2496ED?style=flat&logo=docker&logoColor=white)
   ![NGINX](https://img.shields.io/badge/nginx-009639?style=flat&logo=nginx&logoColor=white)
   ![SQLite](https://img.shields.io/badge/sqlite-003B57?style=flat&logo=sqlite&logoColor=white)
