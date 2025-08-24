@@ -11,7 +11,7 @@ Welcome to **rocha.lol** — a personal project that blends modern web technolog
 <div align="center">
   <div>
     <h2>Visit my live project:</h2>
-    <a href="https://rocha.lol">
+    <a href="https://rocha.lol" target="_blank" rel="noopener noreferrer">
       <img src="https://img.shields.io/badge/live-rocha.lol-00bcd4?style=for-the-badge&logo=google-chrome" alt="Visit the live project">
     </a>
   </div>
