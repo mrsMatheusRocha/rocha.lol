@@ -1,4 +1,6 @@
+<div align="center">
 # 🌐 rocha.lol
+</div>div>
 
 ### 🚀 A Full-Stack Web Development Showcase
 
@@ -6,7 +8,9 @@ Welcome to **rocha.lol** — a personal project that blends modern web technolog
 
 -----
 
+<div align="center">
 [![Visit the live project](https://img.shields.io/badge/live-rocha.lol-00bcd4?style=for-the-badge&logo=google-chrome)](https://rocha.lol)
+</div>
 
 -----
 
