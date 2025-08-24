@@ -6,6 +6,10 @@
 
 -----
 
+🚀 **Visit the live project:** [**https://rocha.lol**](https://www.google.com/search?q=https://rocha.lol)
+
+-----
+
 ## **Technology Stack**
 
   - **Frontend:** HTML, CSS, and JavaScript.
@@ -47,4 +51,3 @@
 
 Developed by [mrsMatheusRocha](https://github.com/mrsMatheusRocha).
 
-🚀 **Visit the live project:** [**https://rocha.lol**](https://www.google.com/search?q=https://rocha.lol)
