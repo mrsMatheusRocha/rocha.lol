@@ -1,72 +1,50 @@
 # rocha.lol
 
-A full stack project.
+### A full-stack web development project.
 
-## Overview
+`rocha.lol` is a personal project that showcases a modern and robust web infrastructure. It demonstrates key skills in system architecture, security, and performance optimization by combining powerful technologies.
 
-**rocha.lol** is a personal full stack project developed to showcase modern web development practices. The repository includes both frontend and backend code, focusing on delivering a responsive, accessible, and feature-rich web application.
+-----
 
-## Technology Stack
+## **Technology Stack**
 
-- **Frontend:**  
-  - HTML (56.6%)
-  - CSS (30.9%)
-  - JavaScript (12.5%)
+  - **Frontend:** HTML, CSS, and JavaScript.
+  - **Backend & Infrastructure:**
+      - **Docker:** For isolated and consistent environments.
+      - **NGINX:** A high-performance reverse proxy.
+      - **WebSockets:** For real-time communication.
+      - **SQLite:** A lightweight database.
+      - **DigitalOcean:** Cloud hosting (VPS).
+      - **HTTPS & Firewall:** For security.
+      - **Git:** For version control.
 
-- **Backend & Infrastructure:**  
-  - DigitalOcean (VPS)
-  - NGINX
-  - Docker
-  - SQLite
-  - HTTPS
-  - WebSockets
-  - Firewall
-  - Git for code versioning
+-----
 
-## Features
+## **Key Features**
 
-- Responsive layout for optimal viewing on any device
-- Modern CSS styling and animations
-- Interactive components using JavaScript
-- Extensible structure for adding new features
-- Secure and scalable infrastructure using Docker, NGINX, and Firewall
-- Real-time communication via WebSockets
-- Lightweight storage with SQLite
-- HTTPS for security
-- Efficient version control with Git
+  - **Responsive Design:** Adapts to any device.
+  - **Real-Time Communication:** Uses WebSockets for live interactions.
+  - **Portable Environment:** The entire infrastructure is easy to replicate with Docker.
+  - **Security-First Approach:** Implements HTTPS and a firewall.
 
-## Getting Started
+-----
 
-1. **Clone the repository:**
-   ```bash
-   git clone https://github.com/mrsMatheusRocha/rocha.lol.git
-   cd rocha.lol
-   ```
+## **Getting Started**
 
-2. **Open `index.html` in your browser:**
-   You can use a live server extension or simply double-click `index.html` to view the project locally.
+1.  **Clone the repository:**
 
-## Folder Structure
+    ```bash
+    git clone https://github.com/mrsMatheusRocha/rocha.lol.git
+    cd rocha.lol
+    ```
 
-```
-rocha.lol/
-├── index.html
-├── assets/
-│   ├── css/
-│   ├── js/
-│   └── images/
-└── README.md
-```
+2.  **Explore the project:**
+    Open `index.html` in your browser to view the frontend.
 
-- `index.html`: Main HTML file
-- `assets/css/`: Stylesheets
-- `assets/js/`: JavaScript scripts
-- `assets/images/`: Project images and icons
+-----
 
-## Contributing
+## **Author**
 
-Contributions are welcome! Feel free to open issues or submit pull requests to help improve the project.
+Developed by [mrsMatheusRocha](https://github.com/mrsMatheusRocha).
 
-## Author
-
-Developed by [mrsMatheusRocha](https://github.com/mrsMatheusRocha)
+🚀 **Visit the live project:** [**https://rocha.lol**](https://www.google.com/search?q=https://rocha.lol)
