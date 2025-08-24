@@ -1,5 +1,5 @@
 <div align="center">
-# 🌐 rocha.lol
+  <h1>🌐 rocha.lol</h1>
 </div>
 
 ### 🚀 A Full-Stack Web Development Showcase
