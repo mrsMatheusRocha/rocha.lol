@@ -26,7 +26,6 @@ Welcome to **rocha.lol** — a personal project that blends modern web technolog
 - **Backend & Infrastructure:**  
   ![Docker](https://img.shields.io/badge/docker-2496ED?style=flat&logo=docker&logoColor=white)
   ![NGINX](https://img.shields.io/badge/nginx-009639?style=flat&logo=nginx&logoColor=white)
-  ![WebSockets](https://img.shields.io/badge/websockets-4FC08D?style=flat)
   ![SQLite](https://img.shields.io/badge/sqlite-003B57?style=flat&logo=sqlite&logoColor=white)
   ![DigitalOcean](https://img.shields.io/badge/digitalocean-0080FF?style=flat&logo=digitalocean&logoColor=white)
   ![HTTPS](https://img.shields.io/badge/https-2C8EBB?style=flat&logo=letsencrypt&logoColor=white)
