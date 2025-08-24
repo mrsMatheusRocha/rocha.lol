@@ -9,8 +9,8 @@ Welcome to **rocha.lol** — a personal project that blends modern web technolog
 -----
 
 <div align="center">
-  <h2>Visit my live project:</h2>
   <a href="https://rocha.lol">
+    <h2>Visit my live project:</h2>
     <img src="https://img.shields.io/badge/live-rocha.lol-00bcd4?style=for-the-badge&logo=google-chrome" alt="Visit the live project">
   </a>
 </div>
