@@ -30,6 +30,7 @@ Welcome to **rocha.lol** — a personal project that blends modern web technolog
   ![DigitalOcean](https://img.shields.io/badge/digitalocean-0080FF?style=flat&logo=digitalocean&logoColor=white)
   ![HTTPS](https://img.shields.io/badge/https-2C8EBB?style=flat&logo=letsencrypt&logoColor=white)
   ![Git](https://img.shields.io/badge/git-F05032?style=flat&logo=git&logoColor=white)
+  ![Node.js](https://img.shields.io/badge/node.js-339933?style=flat&logo=node.js&logoColor=white)
 
 -----
 
